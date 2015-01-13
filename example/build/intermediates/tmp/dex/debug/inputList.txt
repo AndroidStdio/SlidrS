@@ -1,0 +1,13 @@
+J:\domes\Slidr\example\build\intermediates\classes\debug
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-82dda749d36edd0d3576e047c1c056a3eba78bc5.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\timber-2.5.1-SNAPSHOT-69e8fad225f09b4d2cb1a7441616a89e3fb03aac.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-1e8da4b9211bbfdec2d45b87ba9d52dc6aaae501.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-2a683cf04381a00af7cfdb34877fdccf3120bd70.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\butterknife-6.0.0-a99f0ad1ee211fe60f4e547fe6ca3f5a72affa98.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-a7cf545e7a2fecd725c3a9c75f191a45137d6406.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\picasso-2.4.0-0d0a23f9dc51e58a9c332365505e6fc92a70b86a.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c8bfa60b8d7b4f67b379cfaa9772cbd0b4b3f9b7.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\gson-2.3.1-3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-b5c1718c5f2b590aa4f3219f8036d5aa6ef362f6.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-a74355445626698772c35d5d0f9feefae5284d7d.jar
+J:\domes\Slidr\example\build\intermediates\pre-dexed\debug\classes-1f15c03d37ac4d74ff652764dd87e0ddf3900a6e.jar

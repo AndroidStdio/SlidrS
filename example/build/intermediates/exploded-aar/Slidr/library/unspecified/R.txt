@@ -1,0 +1,1 @@
+int id slidable_panel 0x7f020000
